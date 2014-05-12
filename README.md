@@ -12,5 +12,5 @@ Para el correcto funcionamiento de este proyecto hacer lo siguiente:
 - Para probar que todo está funcionando ingresar a: `http://localhost/demo/contenidos` y verás una pantalla como la de la figura `demo.png` (incluida como parte de este ejemplo).
 
 
-**NOTA:** Para guardar correctamente las imágenes se requiere que la carpeta `/var/www/ismael/app/webroot/img/Contenido/`
+**NOTA:** Para guardar correctamente las imágenes se requiere que la carpeta `/var/www/demo/app/webroot/img/Contenido/`
 tenga permisos de escritura para el usuario y el grupo de apache (o el que esté configurado).
